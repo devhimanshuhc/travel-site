@@ -14,7 +14,7 @@ export default function CardItems(props) {
           >
             <img
               src={props.src}
-              alt="Travel Image"
+              alt="Travel"
               className="cards__item__img"
             />
           </figure>
