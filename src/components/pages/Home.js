@@ -6,7 +6,7 @@ import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 
 function Home() {
-  TabTitle("TRVL");
+  TabTitle("TRVLR");
   return (
     <>
       <HeroSection />
